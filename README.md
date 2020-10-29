@@ -1,5 +1,5 @@
 # TPB708 Programación de aplicaciones en sistemas de información geográfica
-## Tarea 03 - Geopandas
+## Tarea 03 - GeoPandas
 
 ### Fecha de entrega y entregables
 La fecha y hora límite para la entrega es **jueves 5 de noviembre de 2020 a las 5:00 p.m.**
