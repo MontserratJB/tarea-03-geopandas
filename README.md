@@ -21,4 +21,6 @@ Cada mapa debe tener:
 
 Se recomienda desarrollar el proyecto en un ambiente Conda, de manera similar a como se ha hecho en las lecciones. Los registros de presencia de *Ara ambiguus* están disponibles en [este enlace](https://github.com/tpb708-programacionsig-2020/tarea-03-geopandas/blob/main/datos/ara-ambiguus-cr.csv).
 
+Tanto los gráficos como los mapas deben generarse a partir de un geodataframe de GeoPandas que contenga los datos cargados desde el archivo CSV.
+
 Escoja con cuidado los colores y estilos que use en los mapas y gráficos, de manera que sean visualmente atractivas y también funcionales.
