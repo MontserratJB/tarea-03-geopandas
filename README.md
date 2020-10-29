@@ -19,6 +19,6 @@ Desarrolle un notebook de Jupyter que muestre un mapa Folium con las siguientes 
 4. (5%) Control de escala.
 5. (5% extra) Al hacer clic sobre el polígono de un cantón, debe mostrarse el nombre del cantón y la cantidad de casos correspondiente a la capa (positivos, activos, recuperados o fallecidos).
 
-Se recomienda desarrollar el proyecto en un ambiente Conda, de manera similar a como se ha hecho en las lecciones. Los datos de COVID-19 en formato CSV y el archivo GeoJSON de cantones de Costa Rica están disponibles en [este enlace](https://github.com/tpb708-programacionsig-2020/leccion-10-folium/tree/main/datos).
+Se recomienda desarrollar el proyecto en un ambiente Conda, de manera similar a como se ha hecho en las lecciones. Los registros de presencia de *Ara ambiguus* están disponibles en [este enlace](https://github.com/tpb708-programacionsig-2020/tarea-03-geopandas/blob/main/datos/ara-ambiguus-cr.csv).
 
-Escoja con cuidado los colores y estilos que use en las capas, de manera que sean visualmente atractivas y también funcionales.
+Escoja con cuidado los colores y estilos que use en los mapas y gráficos, de manera que sean visualmente atractivas y también funcionales.
