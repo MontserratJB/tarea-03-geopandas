@@ -4,7 +4,7 @@
 ### Fecha de entrega y entregables
 La fecha y hora límite para la entrega es **jueves 5 de noviembre de 2020 a las 5:00 p.m.**
 
-Debe enviarle al profesor por correo electrónico la dirección para visualizar en [nbviewer](https://nbviewer.jupyter.org/) el notebook resultante. Puede trabajar en grupos de un máximo de tres estudiantes. Solo debe enviarse un mensaje por grupo, con los nombres de los integrantes. 
+Debe enviarle al profesor por correo electrónico la dirección para visualizar en [nbviewer](https://nbviewer.jupyter.org/) el notebook resultante. Puede trabajar en grupos de un máximo de tres estudiantes. Solo debe enviarse un mensaje por grupo, con los nombres de los integrantes, y con copia a todos. 
 
 ### Desarrollo
 Desarrolle un notebook de Jupyter que muestre un mapa Folium con las siguientes características:
